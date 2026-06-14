@@ -1,0 +1,6 @@
+{
+  "name": "지능 에이전트 시뮬레이터",
+  "description": "2022 개정 교육과정 고등학교 정보 교과 과정에서 배우는 지능 에이전트의 4단계 피드백 루프(인식-판단-행동-학습)와 인공지능의 데이터 편향성을 체험하기 위한 인터랙티브 교육용 시뮬레이터입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
